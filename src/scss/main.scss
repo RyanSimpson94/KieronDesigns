@@ -1,0 +1,18 @@
+﻿@import 'buttons.scss';
+@import url('https://fonts.googleapis.com/css?family=Montserrat');
+
+/* ==================== Variables ==================== */
+/* Backgrounds */
+$bg-primary: #03111a;
+$bg-secondary: #ff9400;
+
+/* Text */
+$text-primary: #dae9f2;
+/* ==================== /Variables ==================== */
+
+/* Main */
+body {
+    background-color: $bg-primary;
+    color: $text-primary;
+    font-family: 'Montserrat', sans-serif;
+}
